@@ -1,0 +1,6 @@
+[submodule "resrv-backend"]
+	path = resrv-backend
+	url = https://github.com/jmrl23/resrv-backend.git
+[submodule "resrv-frontend"]
+	path = resrv-frontend
+	url = https://github.com/jmrl23/resrv-frontend.git
