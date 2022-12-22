@@ -4,7 +4,7 @@
 
 ```properties
 # Download repository
-git clone https://github.com/jmrl23/resrv.git --recursive-submodule
+git clone https://github.com/jmrl23/resrv.git --recursive
 ```
 
 ### Group Members
